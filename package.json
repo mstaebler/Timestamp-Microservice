@@ -1,0 +1,29 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "fcc project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstaebler/Timestamp-Microservice.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "timestamp"
+  ],
+  "author": "Mark Staebler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mstaebler/Timestamp-Microservice/issues"
+  },
+  "homepage": "https://github.com/mstaebler/Timestamp-Microservice#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "morgan": "^1.8.1",
+    "path": "^0.12.7"
+  }
+}
